@@ -1,0 +1,29 @@
+Panduan menjalankan dan menggunakan aplikasi
+
+1. Download web server localhost yang bisa digunakan secara offline seperti xampp, ampps, atau yang lainnya. Usahakan penyimpanannya ada di Local Disk C kalian.
+
+2. Pada control panel masing-masing web server tersebut,nyalakan MySQL dan Apache.
+
+3. Akses http://localhost/phpmyadmin. 
+
+4. Tekan tombol New (new database) pada bagian kiri tampilan "http://localhost/phpmyadmin."
+
+5. Masukkan nama database tersebut dengan nama "square", kemudian tekan tombol SQL untuk memasukkan query.
+
+6. Buka folder ProjekUas dan cari "square.sql". Kemudian buka file tersebut dan copy code yang ada di dalamnya.
+
+7. Setelah dicopy, balik ke "http://localhost/phpmyadmin. -> SQL" dan paste semua code kemudian click GO.
+
+8. Buka folder ProjekUas, copy folder bernama "sqlconnect".
+
+9. Buka folder software server sql (xampp/ampps/lainnya). Lalu cari folder htdocs, paste folder "sqlconnect" ke dalam folder htdocs.
+
+10. Sekarang Aplikasi sudah siap dijalankan, buka folder ProjekUas dan buka folder "SQUARE".
+
+11. Kemudian jalankan SQUARE.exe, jika ada peringatan yang muncul dan aplikasi tidak dapat dijalankan, tekan "More info" -> "Run Anyway".
+
+12. Jika Aplikasi sudah berjalan, disarankan register terlebih dahulu.
+
+13. Untuk memainkan game ini, disarankan untuk menggunakan mouse jika ingin pengalaman bermain yang lebih baik.
+
+14. Selamat Bermain :)
