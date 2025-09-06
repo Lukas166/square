@@ -15,7 +15,7 @@ A short guide to set up the database, place the PHP APIs on your local server, a
 	- Click the "New" button on the left panel.
 	- Name the database `square` and create it.
 4. Import the database schema and data:
-	- Locate `square.sql` in your project folder (ProjekUas).
+	- Locate `square.sql` in your project folder.
 	- In phpMyAdmin, open the "SQL" tab, paste the entire contents of `square.sql`, then click "Go".
 	  - Alternative: use the "Import" tab, select the `square.sql` file, and run the import.
 5. Deploy the API/PHP to the web server (htdocs):
